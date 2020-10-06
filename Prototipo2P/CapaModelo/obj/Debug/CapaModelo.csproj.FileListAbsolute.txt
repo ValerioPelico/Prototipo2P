@@ -1,0 +1,6 @@
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
