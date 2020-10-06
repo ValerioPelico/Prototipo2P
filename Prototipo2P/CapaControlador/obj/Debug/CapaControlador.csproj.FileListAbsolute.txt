@@ -1,0 +1,9 @@
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\ekt\Desktop\2do parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
